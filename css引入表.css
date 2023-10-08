@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+h2{color:#3CF;
+   }
+   
+   h1{color:#0F3
+   }
+   
+  .jz{text-align:center;
+  }
+  
+  .sz{font-size:30px;
+  }
+  
+  .default-image{width:35%;
+      height:100;
+	  hspace:15;
+  }
+  .lj1:hover{color:#F30;
+           text-decoration:none;
+  }
+  
+  .lj1{color:#F90
+  }
+  
+  .image-container{position: relative;
+	              
+  }
+  
+  .hover-image{position:absolute;
+      top: 0;
+    left: 0;
+    opacity: 0;
+	transition: opacity 0.2s ease-in-out;
+  }
+  
+  .image-container:hover .hover-image{opacity:1;
+  }
+  
+  .ju{width:35%;
+      height:100;
+	  hspace:15;
+  }
+  
+  *{font-family:"微软雅黑","黑体","华文彩云","宋体";
+    font-weight:500;
+  }
+  
+  .mz{text-align:right;
+     font-style:italic;
+	 font-size:15px;
+	 color:#C66;
+  }

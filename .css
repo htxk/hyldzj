@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+ nav {
+	  float:left;
+	  width: 100%;
+	  text-align:left;
+	  background-color:#CF9;
+	  padding-top:20px;
+	  padding-bottom:30px;}
+	  
+ nav a:link, nav a:visited {
+	  display:inline;
+	  border-bottom:30px solid #fff;
+	  padding:10px;
+	  text-decoration:bold;
+	  margin:5px;}
+	  
+nav a:hover { 
+      
+	  background-color:#F47D31;}	  color:#F0F;
+	  
+ qq { height:100%;}	  
+	  

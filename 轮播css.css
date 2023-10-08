@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+.slide {
+    display: none;
+}
+
+/* 图片轮播容器 */
+.slideshow-container {
+    max-width: 1000px;
+    position: relative;
+    margin: auto;
+}
+
+/* 图片样式 */
+img {
+    width: 100%;
+    height: auto;
+}
+
+.tp{width:100%;
+   border-radius: 25px;
+}
+
+.zj{width:100%;
+   border-radius: 25px;
+}
+
+.pp{width:100%;
+   border-radius: 25px;
+}
